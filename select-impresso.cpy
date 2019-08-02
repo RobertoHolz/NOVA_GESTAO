@@ -1,0 +1,7 @@
+       SELECT ARQ-IMPRESSO  ASSIGN TO DISK WS-NM-IMPRESSO      
+              ORGANIZATION         IS LINE SEQUENTIAL
+              ACCESS MODE          IS SEQUENTIAL
+              FILE STATUS          IS WS-RST-ACESS-IMPRESSO.  
+      
+
+

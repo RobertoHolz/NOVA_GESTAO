@@ -1,0 +1,10 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\Roberto\workspace\NOVA_GESTAO\RELATORIO_CLIENTE.cbl DELINT USEC:\Users\Roberto\workspace\NOVA_GESTAO\New_Configuration.bin\mfant4912030296378447431.dir ;
+^C:\Users\Roberto\workspace\NOVA_GESTAO\RELATORIO_CLIENTE.cbl
+!C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-cliente.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-cliente.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-cliente.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\lk-gerar-rel-cliente.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\lk-gerar-rel-cliente.cpy

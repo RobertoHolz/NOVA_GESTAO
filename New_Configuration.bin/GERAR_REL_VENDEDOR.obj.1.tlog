@@ -1,0 +1,16 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\Roberto\workspace\NOVA_GESTAO\GERAR_REL_VENDEDOR.cbl DELINT USEC:\Users\Roberto\workspace\NOVA_GESTAO\New_Configuration.bin\mfant6247365188651955201.dir ;
+^C:\Users\Roberto\workspace\NOVA_GESTAO\GERAR_REL_VENDEDOR.cbl
+!C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-vendedor.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-vendedor.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-vendedor.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\select-impresso.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\select-impresso.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\select-impresso.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-vendedor.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-vendedor.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-vendedor.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\fd-impresso.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\fd-impresso.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\fd-impresso.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\lk-gerar-rel-vendedor.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\lk-gerar-rel-vendedor.cpy
