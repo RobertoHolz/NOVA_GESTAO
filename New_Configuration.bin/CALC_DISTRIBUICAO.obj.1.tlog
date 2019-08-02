@@ -1,0 +1,13 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\Roberto\workspace\NOVA_GESTAO\CALC_DISTRIBUICAO.cbl DELINT USEC:\Users\Roberto\workspace\NOVA_GESTAO\New_Configuration.bin\mfant363697571723137085.dir ;
+^C:\Users\Roberto\workspace\NOVA_GESTAO\CALC_DISTRIBUICAO.cbl
+!C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-vendedor.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-vendedor.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-vendedor.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-cliente.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-cliente.cpy
+-C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-cliente.cpy
+!C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-vendedor.cpy
++C:\Users\Roberto\workspace\NOVA_GESTAO\fd-arq-vendedor.cpy

@@ -61,7 +61,7 @@
            WHEN '04' 
              CALL 'RELATORIO_VENDEDOR'                                  
            WHEN '05' 
-             MOVE 'Executar'              TO WS-MSG-MENU                
+             CALL 'CALC_DISTRIBUICAO'                                   
            WHEN '99' 
              MOVE 'Saindo'              TO WS-MSG-MENU              
            WHEN OTHER                                                   

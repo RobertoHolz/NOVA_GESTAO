@@ -86,6 +86,7 @@
 		<file name="GERAR_REL_VENDEDOR.cbl"/>
 		<file name="RELATORIO_CLIENTE.cbl"/>
 		<file name="GERAR_REL_CLIENTE.cbl"/>
+		<file name="CALC_DISTRIBUICAO.cbl"/>
 	</mffilelist>
 	<!-- COBOL copybook locations -->
 	<mffilelist id="cobol.copybook.locations">
@@ -113,6 +114,7 @@
 		<file name="GERAR_REL_VENDEDOR${mf.objext}"/>
 		<file name="RELATORIO_CLIENTE${mf.objext}"/>
 		<file name="GERAR_REL_CLIENTE${mf.objext}"/>
+		<file name="CALC_DISTRIBUICAO${mf.objext}"/>
 	</mffilelist>
 	<!--  *************************  -->
 	<!--  * Configuration targets *  -->

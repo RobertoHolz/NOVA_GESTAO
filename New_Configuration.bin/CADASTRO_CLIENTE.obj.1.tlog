@@ -1,4 +1,4 @@
-#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\Roberto\workspace\NOVA_GESTAO\CADASTRO_CLIENTE.cbl DELINT USEC:\Users\Roberto\workspace\NOVA_GESTAO\New_Configuration.bin\mfant9030395948004606825.dir ;
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\Roberto\workspace\NOVA_GESTAO\CADASTRO_CLIENTE.cbl DELINT USEC:\Users\Roberto\workspace\NOVA_GESTAO\New_Configuration.bin\mfant4980085802171485647.dir ;
 ^C:\Users\Roberto\workspace\NOVA_GESTAO\CADASTRO_CLIENTE.cbl
 !C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy
 +C:\Users\Roberto\workspace\NOVA_GESTAO\select-arq-cliente.cpy

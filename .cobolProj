@@ -52,6 +52,7 @@
          <file compile="true" path="GERAR_REL_VENDEDOR.cbl" xsi:type="cobolFile"/>
          <file compile="true" path="RELATORIO_CLIENTE.cbl" xsi:type="cobolFile"/>
          <file compile="true" path="GERAR_REL_CLIENTE.cbl" xsi:type="cobolFile"/>
+         <file compile="true" path="CALC_DISTRIBUICAO.cbl" xsi:type="cobolFile"/>
       </filetype>
       <filetype type="cobol.copybook" xsi:type="cobolFileContainer">
          <file compile="true" path="select-arq-vendedor.cpy" xsi:type="cobolFile"/>
